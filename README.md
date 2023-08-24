@@ -1,12 +1,12 @@
 # KangaBrew
 
-KangaBrew is a web based application for looking up breweries in your town, adding them to a list, and then HOPPING around to the those breweries throughout the day.  It is currently in development as of 2023-08-16
+KangaBrew is a web based application for looking up breweries in your town, adding them to a list, and then HOPPING around to the those breweries throughout the day.  It is currently in development as of 2023-08-24
 
 # Install
 
 KangaBrew is written in vanilla JavaScript, HTML, and CSS with a JSON-Server backend.  
 
-Therefore, installation is as simple as cloning the repository, running ```json-server db.json``` then launching ```index.html``` in any browser.
+Installation is as simple as cloning the repository, running ```json-server db.json``` then launching ```index.html``` in any browser.
 
 # Resources
 
@@ -17,6 +17,6 @@ Therefore, installation is as simple as cloning the repository, running ```json-
 5. [Flatiron School](https://flatironschool.com/)
 6. [Confetti](https://codepen.io/linrock/pen/nMadjQ)
 
-# Idea Origins
+# Project Origins
 
-This was originally a project built with Noah Rollins to satisfy Flatiron School's requirements for a Phase 1 project.
+Originally a project built with Noah Rollins to satisfy Flatiron School's requirements for a Phase 1 project.
