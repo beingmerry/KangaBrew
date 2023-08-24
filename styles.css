@@ -26,6 +26,10 @@ div#my-breweries-container {
   border: rgb(129, 123, 123) 5px solid;
 }
 
+label#form-check-label{
+  color: white;
+}
+
 header {
   background-image: url("./img/kangabrewheader.jpg");
   min-height: 100px;
