@@ -26,7 +26,7 @@ div#my-breweries-container {
   border: rgb(129, 123, 123) 5px solid;
 }
 
-label#form-check-label{
+label.form-check-label {
   color: white;
 }
 
